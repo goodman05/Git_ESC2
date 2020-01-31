@@ -2,7 +2,8 @@
 ## 안녕하세요?
 ### Hola!
 
-...{python}
+```{python}
 print(1)
 ```
+
 
